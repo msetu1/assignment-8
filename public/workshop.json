@@ -1,0 +1,39 @@
+[
+    {
+    "id":"1",
+      "title": "Introduction to Electronics",
+      "image": "https://i.ibb.co/7vt3C0R/download-1.jpg",
+      "description": "Explore the basics of electronics, covering fundamental concepts like resistors, capacitors, and circuits. Perfect for beginners."
+    },
+    {
+        "id":"2",
+      "title": "Arduino Projects",
+      "image": "https://i.ibb.co/J56LQFp/download-2.jpg",
+      "description": "Dive into hands-on Arduino projects. Learn how to build and program simple to complex electronic systems using Arduino boards."
+    },
+    {
+        "id":"3",
+      "title": "DIY Electronics Kits",
+      "image": "https://i.ibb.co/HtL36D7/download-4.jpg",
+      "description": "Discover our DIY electronics kits. Everything you need to build your own gadgets and experiment with electronic components."
+    },
+    {
+        "id":"4",
+      "title": "Raspberry Pi Workshop",
+      "image": "https://i.ibb.co/7vt3C0R/download-1.jpg",
+      "description": "Join our Raspberry Pi workshop to learn about this versatile mini-computer. Build IoT projects and explore coding in Python."
+    },
+    {
+        "id":"5",
+      "title": "Advanced Circuit Design",
+      "image": "https://i.ibb.co/MPqjzXT/images.jpg",
+      "description": "Take your electronics skills to the next level with advanced circuit design. Understand complex circuits and work with microcontrollers."
+    },
+    {
+        "id":"6",
+      "title": "Robotics and Automation",
+      "image": "https://i.ibb.co/k4MLrrM/download-5.jpg",
+      "description": "Embark on a robotics journey. Design and build robots, and explore automation technologies. Perfect for robotics enthusiasts."
+    }
+  ]
+  
